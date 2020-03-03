@@ -1,0 +1,3 @@
+rootProject.name='LogUtilPOC'
+include ':app'
+include ':logutil'
